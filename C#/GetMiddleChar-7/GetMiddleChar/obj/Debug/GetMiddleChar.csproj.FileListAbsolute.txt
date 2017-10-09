@@ -1,0 +1,8 @@
+C:\Users\Skcali\dev\CodeWars\GetMiddleChar\GetMiddleChar\bin\Debug\GetMiddleChar.exe.config
+C:\Users\Skcali\dev\CodeWars\GetMiddleChar\GetMiddleChar\bin\Debug\GetMiddleChar.exe
+C:\Users\Skcali\dev\CodeWars\GetMiddleChar\GetMiddleChar\bin\Debug\GetMiddleChar.pdb
+C:\Users\Skcali\dev\CodeWars\GetMiddleChar\GetMiddleChar\bin\Debug\nunit.framework.dll
+C:\Users\Skcali\dev\CodeWars\GetMiddleChar\GetMiddleChar\bin\Debug\nunit.framework.xml
+C:\Users\Skcali\dev\CodeWars\GetMiddleChar\GetMiddleChar\obj\Debug\GetMiddleChar.csprojResolveAssemblyReference.cache
+C:\Users\Skcali\dev\CodeWars\GetMiddleChar\GetMiddleChar\obj\Debug\GetMiddleChar.exe
+C:\Users\Skcali\dev\CodeWars\GetMiddleChar\GetMiddleChar\obj\Debug\GetMiddleChar.pdb

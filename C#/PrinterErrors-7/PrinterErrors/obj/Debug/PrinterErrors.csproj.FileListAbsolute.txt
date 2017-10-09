@@ -1,0 +1,5 @@
+C:\Users\Skcali\dev\CodeWars\PrinterErrors\PrinterErrors\bin\Debug\PrinterErrors.exe.config
+C:\Users\Skcali\dev\CodeWars\PrinterErrors\PrinterErrors\bin\Debug\PrinterErrors.exe
+C:\Users\Skcali\dev\CodeWars\PrinterErrors\PrinterErrors\bin\Debug\PrinterErrors.pdb
+C:\Users\Skcali\dev\CodeWars\PrinterErrors\PrinterErrors\obj\Debug\PrinterErrors.exe
+C:\Users\Skcali\dev\CodeWars\PrinterErrors\PrinterErrors\obj\Debug\PrinterErrors.pdb
